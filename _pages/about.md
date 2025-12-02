@@ -29,19 +29,44 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 
 # 📚 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv-Preprint</div><img src='/images/Project/Spatial_VLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**Spatial Intelligence in Vision-Language Models: A Comprehensive Survey**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176231405.57942913/v2)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Disheng Liu**, Tuo Liang, Zhe Hu, Jierui Peng, Yiren Lu, Yi Xu, Yun Fu, Yu Yin
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Github**](https://github.com/vulab-AI/Awesome-Spatial-VLMs) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Vision-Language Models (VLMs) have achieved great success but still lack spatial intelligence, and this survey provides the first unified overview of recent advances, taxonomies, and evaluations toward building spatially intelligent AI.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='/images/Project/Synthetic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Balancing Fidelity and Diversity: Synthetic data could stand on the shoulder of the real in visual recognition**](https://arxiv.org/pdf/2503.04852)
+
+**Disheng Liu**, Tuo Liang, Yu Yin
+
+[**Github**](https://github.com/DishengLL/BALANCING-FIDELITY-AND-DIVERSITY) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='/images/Project/Causal3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CAUSAL3D: A Comprehensive Benchmark for Causal Learning from Visual Data**](https://arxiv.org/pdf/2503.04852)
+
+**Disheng Liu\***, Yiran Qiao\*, Wuche Liu, Yiren Lu, Yunlai Zhou, Tuo Liang, Yu Yin, Jing Ma  
+\*Equal contribution
+
+[**Datasets**](https://huggingface.co/datasets/LLDDSS/Causal3D_Dataset) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- True intelligence relies on understanding hidden causal relations, yet current AI and vision models lack benchmarks to assess this ability. We introduce Causal3D, a comprehensive 19-dataset benchmark linking structured and visual data to evaluate causal reasoning, revealing that performance drops sharply as causal complexity increases.
+</div>
+</div>
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
