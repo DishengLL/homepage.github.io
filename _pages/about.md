@@ -30,7 +30,7 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📚 Publications 
+# 📚 Selected Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.10</div><img src='/images/Project/Spatial_VLM.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
