@@ -29,7 +29,7 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 
 # 📚 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv-Preprint</div><img src='/images/Project/Spatial_VLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='/images/Project/Spatial_VLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Spatial Intelligence in Vision-Language Models: A Comprehensive Survey**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176231405.57942913/v2)
@@ -41,7 +41,7 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='/images/Project/Synthetic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='/images/Project/Synthetic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Balancing Fidelity and Diversity: Synthetic data could stand on the shoulder of the real in visual recognition**](https://arxiv.org/pdf/2503.04852)
@@ -53,7 +53,7 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='/images/Project/Causal3D.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='/images/Project/Causal3D.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CAUSAL3D: A Comprehensive Benchmark for Causal Learning from Visual Data**](https://arxiv.org/pdf/2503.04852)
