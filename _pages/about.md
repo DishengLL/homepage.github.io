@@ -21,7 +21,10 @@ I am a PhD candidate in Computer Science at Case Western Reserve University (CWR
 
 Prior to that, I was a Visiting student at ShanghaiTech University. I received my M.S. in Information Science from University of Pittsburgh (Pitt) in 2022. I received my B.Eng. in Computing and Information Science from Guangdong University of Technology supervised by Prof. Weihua He.
 
-I have broad research interests in **Computer Vision** and **Vision-Language Models**, with a particular focus on advancing **spatial intelligence** in the next generation of AI systems.  <a href='https://scholar.google.com/citations?user=xlIBwREAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+I have broad research interests in **Computer Vision** and **Vision-Language Models**, with a particular focus on advancing **spatial intelligence** in the next generation of AI systems.  <a href="https://scholar.google.com/citations?user=xlIBwREAAAAJ&hl=en">
+  <img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"
+       alt="Google Scholar citations">
+</a>
 
 
 # 🔥 News
