@@ -36,9 +36,9 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 
 [**Spatial Intelligence in Vision-Language Models: A Comprehensive Survey**](https://www.techrxiv.org/users/992599/articles/1354538/master/file/data/Spatial_VLM_Survey_Techrxiv/Spatial_VLM_Survey_Techrxiv.pdf?inline=true#scrollbar=1&toolbar=1&statusbar=1&navpanes=1#)
 
-**Disheng Liu**, Tuo Liang, Zhe Hu, Jierui Peng, Yiren Lu, Yi Xu, Yun Fu, Yu Yin
+**Disheng Liu**, Tuo Liang, Zhe Hu, Jierui Peng, Yiren Lu, Yi Xu, Yun Fu, Yu Yin; [**GitHub**](https://github.com/vulab-AI/Awesome-Spatial-VLMs) 
+<img src="https://img.shields.io/github/stars/vulab-AI/Awesome-Spatial-VLMs" align="absmiddle">
 
-[**Github**](https://github.com/vulab-AI/Awesome-Spatial-VLMs) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'> <img src=https://img.shields.io/github/stars/vulab-AI/Awesome-Spatial-VLMs.svg?style=social ></span></strong>
 - Vision-Language Models (VLMs) have achieved great success but still lack spatial intelligence, and this survey provides the first unified overview of recent advances, taxonomies, and evaluations toward building spatially intelligent AI.
 </div>
 </div>
@@ -48,9 +48,7 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 
 [**Balancing Fidelity and Diversity: Synthetic data could stand on the shoulder of the real in visual recognition**](https://openreview.net/pdf?id=6r0VuH8gGT)
 
-**Disheng Liu**, Tuo Liang, Yu Yin
-
-[**Github**](https://github.com/DishengLL/BALANCING-FIDELITY-AND-DIVERSITY) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Disheng Liu**, Tuo Liang, Yu Yin; [**Github**](https://github.com/DishengLL/BALANCING-FIDELITY-AND-DIVERSITY)  
 - With the rapid progress of generative models, synthetic data has become a common solution to data scarcity in AI. However, is using it directly without curation ideal for visual recognition? We systematically study how data fidelity and diversity affect recognition performance and show that balancing these factors significantly improves results through a training-free curation pipeline.
 
 </div>
@@ -61,10 +59,7 @@ I have broad research interests in **Computer Vision** and **Vision-Language Mod
 
 [**CAUSAL3D: A Comprehensive Benchmark for Causal Learning from Visual Data**](https://arxiv.org/pdf/2503.04852)
 
-**Disheng Liu\***, Yiran Qiao\*, Wuche Liu, Yiren Lu, Yunlai Zhou, Tuo Liang, Yu Yin, Jing Ma  
-\*Equal contribution
-
-[**Datasets**](https://huggingface.co/datasets/LLDDSS/Causal3D_Dataset) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Disheng Liu\***, Yiran Qiao\*, Wuche Liu, Yiren Lu, Yunlai Zhou, Tuo Liang, Yu Yin, Jing Ma; \*Equal contribution;  [**Datasets**](https://huggingface.co/datasets/LLDDSS/Causal3D_Dataset) 
 - True intelligence relies on understanding hidden causal relations, yet current AI and vision models lack benchmarks to assess this ability. We introduce Causal3D, a comprehensive 19-dataset benchmark linking structured and visual data to evaluate causal reasoning, revealing that performance drops sharply as causal complexity increases.
 </div>
 </div>
